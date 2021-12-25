@@ -1,4 +1,4 @@
-#         FLICKS-USERBOT​    
+#         mitikbot
 
 </p>
 <p align="center">
@@ -12,7 +12,7 @@
     <a href="https://github.com/fjgaming212/Flicks-Userbot/network/members"> <img src="https://img.shields.io/github/stars/fjgaming212/Flicks-Userbot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
-Flicks-Userbot adalah userbot Telegram modular yang berjalan di Python 3.6 dengan database sqlalchemy.
+mitikbot adalah userbot Telegram modular yang berjalan di Python 3.6 dengan database sqlalchemy.
 
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan module.
 
@@ -36,7 +36,7 @@ Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang sa
 
 
 ## DEPLOY TO HEROKU 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/fjgaming212/Deploy-Flicks"> <img src="https://www.herokucdn.com/deploy/button.svg" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/eldy020502/Deploy-mitik"> <img src="https://www.herokucdn.com/deploy/button.svg" /></a></p>
 
 ### Tutorial Deploy
 ```
@@ -49,7 +49,7 @@ Terus Nyalakan, tutorial lengkap cek di Channel Update
 
 
 ### Support & Updates 
-Gabung [Grup Support](https://t.me/FlicksSupport) Dan [Channel Update](https://t.me/InfoFlicksUserbot) Untuk Mengetahui update userbot kami
+Gabung [Grup Support](https://t.me/justvenzzz) Dan [Channel Update](https://t.me/Someonefromyou) Untuk Mengetahui update userbot kami
 
 
   <b>© Credits</b></summary>
