@@ -189,7 +189,7 @@ YOUTUBE_API_KEY = os.environ.get(
 # Untuk Perintah .falive
 FLICKS_TEKS_KUSTOM = os.environ.get(
     "FLICKS_TEKS_KUSTOM",
-    "I'am Using Flicks-Userbot ✨")
+    "I'am Using mitikbot ✨")
 
 # Default .alive Name
 ALIVE_NAME = os.environ.get("ALIVE_NAME", None)
@@ -209,7 +209,7 @@ BITLY_TOKEN = os.environ.get(
     "BITLY_TOKEN") or "o_1fpd9299vp"
 
 # Bot Name
-TERM_ALIAS = os.environ.get("TERM_ALIAS", "Flicks-Userbot")
+TERM_ALIAS = os.environ.get("TERM_ALIAS", "mitikbot")
 
 # Bot Version
 BOT_VER = os.environ.get("BOT_VER", "5.1")
@@ -222,7 +222,7 @@ S_PACK_NAME = os.environ.get("S_PACK_NAME", None)
 
 # Default .alive Logo
 ALIVE_LOGO = os.environ.get(
-    "ALIVE_LOGO") or "https://telegra.ph/file/808a9f8f047f9a7e67050.jpg"
+    "ALIVE_LOGO") or "https://telegra.ph/file/b0b7acb8936c1aea582ed.jpg"
 
 # Default pmpermit logo
 PMPERMIT_PIC = os.environ.get(
@@ -230,11 +230,11 @@ PMPERMIT_PIC = os.environ.get(
 
 # Default .helpme Logo
 INLINE_PIC = os.environ.get(
-    "INLINE_PIC") or "https://telegra.ph/file/808a9f8f047f9a7e67050.jpg"
+    "INLINE_PIC") or "https://telegra.ph/file/b0b7acb8936c1aea582ed.jpg"
 
 # Last.fm Module
 BIO_PREFIX = os.environ.get("BIO_PREFIX", None)
-DEFAULT_BIO = os.environ.get("DEFAULT_BIO", "Flicks-Userbot ✨")
+DEFAULT_BIO = os.environ.get("DEFAULT_BIO", "mitikbot ✨")
 
 LASTFM_API = os.environ.get(
     "LASTFM_API") or "73d42d9c93626709dc2679d491d472bf"
@@ -519,7 +519,7 @@ with bot:
                 await event.message.get_sender()
                 text = (
                     f"**Hello** [{get_display_name(u)}](tg://user?id={u.id}) **Is Its Alive Bot**\n\n"
-                    f"         ✘ 𝐅𝐥𝐢𝐜𝐤𝐬-𝐔𝐬𝐞𝐫𝐛𝐨𝐭 ✘ \n"
+                    f"         ✘ mitikbot ✘ \n"
                     "▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱\n"
                     f"          I'ᴍ Aʟɪᴠᴇ​ ✨ \n"
                     "▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱ \n"
