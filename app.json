@@ -1,6 +1,6 @@
 {
-  "name": "Flicks-Userbot",
-  "description": "[Ficks-Userbot] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERMAIN DI TELEGRAM.",
+  "name": "mitikbot",
+  "description": "[mitikbot] USERBOT KHUSUS YANG DIGUNAKAN UNTUK BERMAIN DI TELEGRAM.",
   "logo": "https://telegra.ph/file/62e4919abb9c9dd7c0310.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/fjgaming212/Flicks-Userbot",
-  "telegram": "https://t.me/FJ_GAMING",
-  "success_url": "https://t.me/FlicksSupport",
+  "repository": "https://github.com/eldy020502/mitikbot",
+  "telegram": "https://t.me/iniidnyael",
+  "success_url": "https://t.me/justvenzzz",
   "stack": "container",
   "env": {
     "API_KEY": {
